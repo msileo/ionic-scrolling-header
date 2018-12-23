@@ -11,7 +11,7 @@ import {
 // https://github.com/apache/cordova-plugin-statusbar/pull/37
 // import { StatusBar } from "@ionic-native/status-bar";
 
-import { Platform, Content } from "ionic-angular";
+import { Platform, Content } from "@ionic/angular";
 
 @Directive({
   selector: "[scrollingHeader]"
